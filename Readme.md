@@ -53,3 +53,14 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/roshann-ag/Rudra--Test.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
+┌──(kaliuser㉿kali)-[~/Documents/Rudra--Test]
+└─$ git pull --rebase
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 1.31 KiB | 1.31 MiB/s, done.
+From https://github.com/roshann-ag/Rudra--Test
+ * [new branch]      Development -> origin/Development
+Already up to date.
+
